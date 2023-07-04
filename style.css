@@ -1,0 +1,51 @@
+.nav-link
+{
+    font-family: 'Nunito', sans-serif;
+    font-size: 25px;
+    font-weight: 700;
+}
+
+.nav-item
+{
+    /* margin-left: 20px; */
+    margin-right: 20px;
+}
+
+.kowkow
+{
+    font-family: 'Nunito', sans-serif;
+    font-size: 60px;
+    font-weight: 700;
+}
+
+.text-start
+{
+    font-family: 'Nunito', sans-serif;
+    font-size: 25px;
+    font-weight: 500;
+}
+
+.gallery
+{
+    background-color: #ffffff;
+    padding: 80px 0;
+}
+
+img
+{
+    max-width: 100%;
+}
+
+.gallery img
+{
+    /* background-color: #e2dfdf; */
+    padding: 15px;
+    width: 100%;
+    cursor: pointer;
+}
+
+#gallery-modal .modal-img
+{
+    width: 100%;
+}
+
